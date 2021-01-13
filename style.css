@@ -1,0 +1,36 @@
+/**font-family: 'Bebas Neue', cursive;
+font-family: 'Roboto', sans-serif;**/
+
+.ylw-font{
+    color: #FA804C;
+}
+
+.blue-font{
+    color: #363958;
+}
+
+.roboto-16{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #3E3E3E;
+}
+
+header{
+    background-color: #FFF9F4;
+}
+
+.nav-font{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.banner{
+    padding-bottom: 8em;
+}
+
+.banner-font{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    line-height: 1;
+}
