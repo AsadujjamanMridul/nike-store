@@ -1,3 +1,3 @@
 # nike-store
 
-![](screebshots/screenshot-web.png)
+![](screenshots/screenshot-web.png)
