@@ -1,5 +1,5 @@
 # nike-store
 
-<img src="./screenshots/screenshot-web.png" style={ width: '50%' }/>
+<img src="screenshots/screenshot-web.png"/>
 
 ![](screenshots/screenshot-web.png)
