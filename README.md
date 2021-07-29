@@ -1,5 +1,9 @@
 # nike-store
 
-<img src="screenshots/screenshot-web.png" width="50%" align="center"/>
+<p align="center">
+  <img src="screenshots/screenshot-web.png" width="50%" align="center"/>
+</p>
 
-![](screenshots/screenshot-web.png | width=50)
+## [Live Site](https://asadujjamanmridul.github.io/nike-store/index.html)
+
+###### `Thank you`
